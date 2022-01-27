@@ -1,0 +1,7 @@
+.modal-backdrop {
+  backdrop-filter: blur(5px);
+  background-color: #01223770;
+}
+.modal-backdrop.in {
+  opacity: 1 !important;
+}
